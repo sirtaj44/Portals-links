@@ -1,0 +1,295 @@
+body{
+   background: #000;
+ }
+
+a {
+  height: auto;
+  display: flex;
+  align-content: center;
+  align-items: center;
+  justify-content: center;
+  padding-left: auto;
+  padding-right: auto;
+}
+
+.btn1 {
+	cursor: pointer;
+	border-radius: 10px;
+    border: 2px solid rgb(115, 255, 0);
+    color: rgb(0, 0, 0);
+    background-color: transparent;
+}
+
+.btn2 {
+	cursor: pointer;
+	border-radius: 10px;
+    border: 2px solid rgb(255, 153, 0);
+    color: rgb(0, 0, 0);
+    background-color: transparent;
+  margin: 15px;
+}
+
+.btn3 {
+	cursor: pointer;
+	border-radius: 10px;
+    border: 2px solid rgb(238, 255, 0);
+    color: rgb(0, 0, 0);
+    background-color: transparent;
+  margin: 15px;
+}
+
+.btn4 {
+	cursor: pointer;
+	border-radius: 10px;
+    border: 2px solid rgb(3, 255, 137);
+    color: rgb(0, 0, 0);
+    background-color: transparent;
+  margin: 15px;
+}
+
+.btn5 {
+	cursor: pointer;
+	border-radius: 10px;
+    border: 2px solid rgb(89, 0, 255);
+    color: rgb(0, 0, 0);
+    background-color: transparent;
+  margin: 15px;
+}
+
+.btn6 {
+	cursor: pointer;
+	border-radius: 10px;
+    border: 2px solid rgb(255, 0, 200);
+    color: rgb(0, 0, 0);
+    background-color: transparent;
+  margin: 15px;
+}
+.btn7 {
+	cursor: pointer;
+	border-radius: 10px;
+    border: 2px solid rgb(255, 0, 0);
+    color: rgb(0, 0, 0);
+    background-color: transparent;
+  margin: 15px;
+}
+.btn8 {
+	cursor: pointer;
+	border-radius: 10px;
+    border: 2px solid rgb(0, 255, 42);
+    color: rgb(0, 0, 0);
+    background-color: transparent;
+  margin: 15px;
+}
+.btn9 {
+	cursor: pointer;
+	border-radius: 10px;
+    border: 2px solid rgb(0, 4, 255);
+    color: rgb(0, 0, 0);
+    background-color: transparent;
+  margin: 15px;
+}
+.btn10 {
+	cursor: pointer;
+	border-radius: 10px;
+    border: 2px solid rgb(219, 138, 45);
+    color: rgb(0, 0, 0);
+    background-color: transparent;
+  margin: 15px;
+}
+.btn11 {
+	cursor: pointer;
+	border-radius: 10px;
+    border: 2px solid rgb(83, 7, 7);
+    color: rgb(0, 0, 0);
+    background-color: transparent;
+  margin: 15px;
+}
+.btn12 {
+	cursor: pointer;
+	border-radius: 10px;
+    border: 2px solid rgb(4, 18, 66);
+    color: rgb(0, 0, 0);
+    background-color: transparent;
+  margin: 15px;
+}
+.btn13 {
+	cursor: pointer;
+	border-radius: 10px;
+    border: 2px solid rgb(87, 6, 83);
+    color: rgb(0, 0, 0);
+    background-color: transparent;
+  margin: 15px;
+}
+.btn14 {
+	cursor: pointer;
+	border-radius: 10px;
+    border: 2px solid rgb(136, 13, 70);
+    color: rgb(0, 0, 0);
+    background-color: transparent;
+  margin: 15px;
+}
+.btn15 {
+	cursor: pointer;
+	border-radius: 10px;
+    border: 2px solid rgb(255, 0, 106);
+    color: rgb(0, 0, 0);
+    background-color: transparent;
+  margin: 15px;
+}
+.btn16 {
+	cursor: pointer;
+	border-radius: 10px;
+    border: 2px solid rgb(141, 98, 17);
+    color: rgb(0, 0, 0);
+    background-color: transparent;
+  margin: 15px;
+}
+
+.btn1:hover {
+    background-color: rgb(115, 255, 0);
+}
+
+.btn2:hover {
+    background-color: rgb(255, 153, 0);
+}
+
+.btn3:hover {
+    background-color: rgb(238, 255, 0);
+}
+
+.btn4:hover {
+    background-color: rgb(3, 255, 137);
+}
+
+.btn5:hover {
+    background-color: rgb(89, 0, 255);
+}
+
+.btn6:hover {
+    background-color: rgb(255, 0, 200);
+}
+
+.btn7:hover {
+    background-color: rgb(255, 0, 0);
+}
+
+.btn8:hover {
+    background-color: rgb(0, 255, 42);
+}
+
+.btn9:hover {
+    background-color: rgb(0, 4, 255);
+}
+
+.btn10:hover {
+    background-color: rgb(219, 138, 45);
+}
+
+.btn11:hover {
+    background-color: rgb(83, 7, 7);
+}
+
+.btn12:hover {
+    background-color: rgb(4, 18, 66);
+}
+
+.btn13:hover {
+    background-color: rgb(87, 6, 83);
+}
+
+.btn14:hover {
+    background-color: rgb(136, 13, 70);
+}
+
+.btn15:hover {
+    background-color: rgb(255, 0, 106);
+}
+
+.btn16:hover {
+    background-color: rgb(141, 98, 17);
+}
+.A1 {
+    background-color: rgb(115, 255, 0);
+    color: #ffffff;
+    text-align: center;
+}
+.A2 {
+    background-color: rgb(255, 153, 0);
+    color: #ffffff;
+    text-align: center;
+}
+.A3 {
+    background-color: rgb(238, 255, 0);
+    color: #000000;
+    text-align: center;
+}
+.A4 {
+    background-color: rgb(3, 255, 137);
+    color: #ffffff;
+    text-align: center;
+}
+.A5 {
+    background-color: rgb(89, 0, 255);
+    color: #ffffff;
+    text-align: center;
+}
+.A6 {
+    background-color: rgb(255, 0, 200);
+    color: #ffffff;
+    text-align: center;
+}
+.A7 {
+    background-color: rgb(255, 0, 0);
+    color: #ffffff;
+    text-align: center;
+}
+.A8 {
+    background-color: rgb(0, 255, 42);
+    color: #000000;
+    text-align: center;
+}
+.A9 {
+    background-color: rgb(0, 4, 255);
+    color: #ffffff;
+    text-align: center;
+}
+.A10 {
+    background-color: rgb(219, 138, 45);
+    color: #ffffff;
+    text-align: center;
+}
+.A11 {
+    background-color: rgb(83, 7, 7);
+    color: #ffffff;
+    text-align: center;
+}
+.A12 {
+    background-color: rgb(4, 18, 66);
+    color: #ffffff;
+    text-align: center;
+}
+.A13 {
+    background-color: rgb(87, 6, 83);
+    color: #ffffff;
+    text-align: center;
+}
+.A14 {
+    background-color: rgb(136, 13, 70);
+    color: #ffffff;
+    text-align: center;
+}
+.A15 {
+    background-color: rgb(255, 0, 106);
+    color: #ffffff;
+    text-align: center;
+}
+.A16 {
+    background-color: rgb(141, 98, 17);
+    color: #ffffff;
+    text-align: center;
+}
+
+div {
+    background-color: #ffffff;
+    height: 100px;
+}
